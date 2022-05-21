@@ -9,10 +9,6 @@
     </RowData>
     <RowData>
         <ItemData>
-            <Item></Item>
-            <Item></Item>
-        </ItemData>
-        <ItemData>
             <NestedItemData>
                 <Item></Item>
                 <Item></Item>
@@ -23,6 +19,11 @@
                     </NestedItemData>
                 </ItemData>
             </NestedItemData>
+        </ItemData>
+        
+        <ItemData>
+            <Item></Item>
+            <Item></Item>
         </ItemData>
     </RowData>
 </Data>
