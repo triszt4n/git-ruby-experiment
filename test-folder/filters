@@ -1,14 +1,6 @@
 <Data>
     <RowData>
         <ItemData>
-        </ItemData>
-    </RowData>
-    <RowData>
-    </RowData>
-    <RowData>
-    </RowData>
-    <RowData>
-        <ItemData>
             <NestedItemData>
                 <Item></Item>
                 <Item></Item>
@@ -27,10 +19,6 @@
     </RowData>
 </Data>
 <Data>
-    <ItemData>
-        <Item></Item>
-        <Item></Item>
-    </ItemData>
     <ItemData>
         <Item></Item>
         <NestedItemData>
